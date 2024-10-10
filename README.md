@@ -43,8 +43,8 @@ You can find more details about it : https://streamlit.io/
 # 💻 Local Deployment
 ### 1. Clone the Repository
 ```bash
-git clone 
-cd ServeyRAG
+git clone https://github.com/Shreyas379/SurveyRAG.git
+cd SurveyRAG
 ```
 ### 2. Add Environment Variables
 
