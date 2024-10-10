@@ -1,0 +1,7 @@
+streamlit
+haystack-ai
+qdrant-haystack
+cohere-haystack
+openpyxl
+pandas
+python-dotenv
